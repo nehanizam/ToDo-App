@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    background-image: url("bg.jpg");
+}
+h1{
+    margin-right: 500px;
+}
+.same{
+    font-size: 20px;
+    margin-top: 5px;
+}
+#add{
+    margin-left: 5px;
+    padding: 3px;
+    background-color: plum;
+    width: 60px;
+}
+#delete{
+    margin-left: 5px;
+    padding: 3px;
+    background-color: plum;
+}
+#task{
+    width: 300px;
+    padding: 3px;
+}
+fieldset{
+    margin-top: 60px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: auto;
+    border-color: black;
+}
+#list{
+    text-align: left;
+}
+.lis{
+    padding: 5px;
+    font-size: 20px;
+}
+.dbtn{
+    background-color: plum;
+    color: black;
+    margin-left: 20px;
+    padding: 1px;
+    width: 60px;
+
+
+}
+.ebtn{
+    background-color: plum;
+    color: black;
+    margin-left: 15px;
+    padding: 1px;
+    width: 60px;
+
+}
